@@ -1,0 +1,10 @@
+---Admin---
+nfaralysha@gmail.com = Faralysha
+
+---Staff---
+Staff1
+staff1@gmail.com = Staff1
+
+---User---
+Eizrfan
+user01@gmail.com = Eizrfan
